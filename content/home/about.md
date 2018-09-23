@@ -18,12 +18,12 @@ weight = 5
 [[education.courses]]
   course = "M.S. in Statistics"
   institution = "University of Michigan, Ann Arbor"
-  year = 2017-
+  year = 2019
 
 [[education.courses]]
   course = "B.S. in Statistics"
   institution = "Fudan University"
-  year = 2013-2017
+  year = 2017
  
 +++
 
