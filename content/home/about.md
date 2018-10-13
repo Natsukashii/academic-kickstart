@@ -29,4 +29,4 @@ weight = 5
 
 # Biography
 
-I'm a second year master student in STATS in the University of Michigan, Ann Arbor.
+My name is Zhongyuan Lyu, a second year master student in STATS in the University of Michigan, Ann Arbor.
